@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zain-altaf
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node.js, C#, C++, React Native
+- 👀 I’m interested in Machine Learning and Medical AI
+- 🌱 I’m currently learning Python, TensorFlow, OpenCV, C#, C++, React
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me: zaltaf@uwaterloo.ca
 
